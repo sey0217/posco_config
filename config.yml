@@ -2,5 +2,5 @@ jwt:
   time: 1000
   ret: hello-world
 posco:
-  name: "${chop}c67e623821463d009b74e0da6bf3d71af71ec228b741a30bb91f67bca00e6a31"
+  name: "{chop}c67e623821463d009b74e0da6bf3d71af71ec228b741a30bb91f67bca00e6a31"
   count: 20
