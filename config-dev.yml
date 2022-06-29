@@ -6,6 +6,6 @@ posco:
   count: 204444
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=UTC&characterEncoding=UTF-8
+    url: jdbc:mysql://localhost:3306/mydb?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
     password: "{cipher}9185090ff435db599b9fd813c25d14bf4c048666e72dd2de27e232a2367a040b"
