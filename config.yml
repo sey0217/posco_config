@@ -6,6 +6,6 @@ posco:
   count: 20
 test:
   datasource:
-    url : jdbc:mysql://localhost:3306/enjoy?serverTimezone=UTC&characterEncoding=UTF-8
+    url : jdbc:mysql://localhost:3306/mydb?serverTimezone=UTC&characterEncoding=UTF-8
     username : root
     password : 1234
