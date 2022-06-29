@@ -4,7 +4,7 @@ jwt:
 posco:
   name: 3기44445555
   count: 20444455555
-test:
+spring:
   datasource:
     url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
