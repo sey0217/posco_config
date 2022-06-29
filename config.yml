@@ -4,3 +4,8 @@ jwt:
 posco:
   name: "{cipher}c67e623821463d009b74e0da6bf3d71af71ec228b741a30bb91f67bca00e6a31"
   count: 20
+test:
+  datasource:
+    url : jdbc:mysql://localhost:3306/mydb?serverTimezone=UTC&characterEncoding=UTF-8
+    username : root
+    password : 1234
