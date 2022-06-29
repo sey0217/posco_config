@@ -1,16 +1,11 @@
-#jwt:
-#  time: 90000
-#  ret: hello-world1234444
+jwt:
+  time: 90000
+  ret: hello-world1234444
 posco:
   name: 3기4444
   count: 204444
-  datasource:
-    url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=UTC&characterEncoding=UTF-8
-    username: root
-    password: 1234
-
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/enjoy?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
-    password: "{chiper}9185090ff435db599b9fd813c25d14bf4c048666e72dd2de27e232a2367a040b"
+    password: "{cipher}9185090ff435db599b9fd813c25d14bf4c048666e72dd2de27e232a2367a040b"
