@@ -1,6 +1,3 @@
-jwt:
-  time: 90000
-  ret: hello-world111111
 posco:
   name: 3기4444
   count: 204444
@@ -8,4 +5,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/mydb?serverTimezone=UTC&characterEncoding=UTF-8
     username: root
-    password: "{cipher}9185090ff435db599b9fd813c25d14bf4c048666e72dd2de27e232a2367a040b"
+    password: "{cipher}70640f1a19c6a13669fac4a8f98eb33bd7e2284a78e53deaf9d34cf9ac415150"
+jwt:
+  secret_key: secret_key_secret_key_secret_key_secret_key_secret_key_secret_key_secret_key_
+  expTime: 86400000
